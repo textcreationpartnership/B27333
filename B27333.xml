@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A New-years-gift to youth, or, The young man's guide to eternal bliss fitted for the use of all Christian families, and more particularaly directed to the youth of the nation, for their general benefit and instruction.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27333</idno><idno type="EEBO-CITATION">12643585</idno>
+  <idno type="VID">200368</idno>
+  <idno type="EEBO-PROQUEST">2241010187</idno>
+  
+            <idno type="STC">Wing N820A</idno>
+            <idno type="OCLC">12643585</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200368)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 966:57)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A New-years-gift to youth, or, The young man's guide to eternal bliss fitted for the use of all Christian families, and more particularaly directed to the youth of the nation, for their general benefit and instruction.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:200368:1"/>
+            <head>A NEW-YEARS-GIFT to YOUTH OR, The Young Mans Guide to Eternal Bliss.</head>
+            <head type="sub">Fitted for the use of all <hi>Christian Families;</hi> and more Particularly directed to the <hi>Youth</hi> of the <hi>Nation,</hi> for their General benefit and Instruction.</head>
+            <p>THe Life of Man, may be justly stil'd a Pilgrimage, wherein each Person is a Traveller, from his Cradle to his Grave. The Miseries, Cares, and Disappointments that he meets with, no other than the Hardships of his Journey: which as they make his path Troublesom, so they endear his Harbour. It is therefore the Concern of all Men to look to their Steps, least they fall by the way, or are allured by the Enticements of <hi>Sa<g ref="char:EOLhyphen"/>tan,</hi> to leave the ruggedness of those Wayes that lead to Eternal Bliss, and follow the more open and less Unpleasant Roads, whose End is Destruction. The which to avoid, is the Subject of the ensuing Rules: wherein no Advice can be more Suitable than that of the Wise Man, to the Youth of the Age wherein he Lived, and left behind him as a standing Rule to all Succeeding Generations: <hi>Eccle.</hi> 12.1. <hi>Remember now thy Creator in the Days of thy Youth, while the Evil Days come not, nor the Years draw nigh, wherein thou shalt say I have no Pleasure in them.</hi>
+            </p>
+            <p>The reasons why he presseth this great Duty, are Two<g ref="char:EOLhyphen"/>fold The first Implied <hi>(viz.)</hi> the Uncertainty of our Condition here, <hi>Remember <hi>now:</hi>
+               </hi> as if he should have said; This <hi>now,</hi> is all the Portion of Time that God hath al<g ref="char:EOLhyphen"/>lowed thee, or which thou canst call thy own: What is past, is in his Hand, and the Actions thou hast therein perfor<g ref="char:EOLhyphen"/>med, whether Good or Evil, are under his Cognizance, and shall receive the Sentence or Acquittal of the Almigh<g ref="char:EOLhyphen"/>ty: What is to come are at his Disposal: and whether thou mayest have another Call from the Spirit of Grace, to improve them to thy Souls Advantage, before thy Head is in the Dust, is uncertain. Yet Secondly, if it should so fall out, that thy Days may be Lengthned, yet hath he herein told thee what will most certainly ensue, Old Age and Imbecility, that will Incapacitate thee for that Service he requires at thy Hands: both which ought to bring us to an early consideration of our State, and urge us betimes to make our Peace, with the God of Peace; or in his own Words, <hi>to remember our Creator,</hi> &amp;c.</p>
+            <p>The Strength of the <hi>Wise Mans</hi> Argument, will appear more Distinctly in the parts of it. First in the Prospect of what Daily happens to others. And Secondly in what attends our Selves: and this will be enough to Waken the Securest, and Ring a Knell of Death, into the Ears of the Strongest amongst us. As for others, look abroad in thy Neighbourhood, and tell me whom the great Enemy of Mankind hath Spared. Hath he had Compassion on the Beautiful? Hath he been afraid to Grapple with the Strong, to Contend with the Wise, or Encounter the Crown<g ref="char:EOLhyphen"/>ed Head? Hath he forgotten the Poor as not worth his Notice, or Complemented the Rich, as above it? Has he said to the Infant, in Mercy I'le Spare thee, or to the Aged in Reverence, I'le pass thee by? Has he heard the Entreaties of the Fearful, or Regarded the Tears of the Childless, the Moans of the Widdow, or the Groans of the Orphan? Alas not he, Inexorable as he is, his Darts flie Undistinguished round the World, and where e're they light they are Mortal: no Charm can Inchant them, no Power Controll them, no Device Counterwork them, no Wit avoid them, no Wealth purchase their Delay no Beau<g ref="char:EOLhyphen"/>ty Entice them to bee Courteous. This thou art every Day acquainted with, in the Examples of others; and how soon it may be thy Turn consider with thy self: should this Enemy Approach thee, what canst thou do to Avert him? If thou hear'st the ratling of his Bones; if thou seest his Bolts a Levelling at thy Head, dost thou think to put him off with a come another time, I am not prepared for thee. No such Answer will avail thee: or dost thou hope to graple with him? what's thy Weakness to his Power? the least of his Messengers will appall thee. If he sends but the Tooth or Head-ach thou Droopest: An <hi>Ague</hi> will Rob thee of thy Strength and Beauty: A Fit of the <hi>Stone</hi> or <hi>Gout,</hi> Tor<g ref="char:EOLhyphen"/>ments thee to Anguish: Nay the least of these with his Commission sends thee irriversably to Companion with <hi>Worms.</hi> A <hi>Flie</hi> in thy Cup, a <hi>Crum</hi> in thy Glass, or a <hi>splinter'd Bone</hi> from thy <hi>Trencher,</hi> by his Order, is as fatal as a Charged Volly at thy Breast or a <hi>Thunder-Bolt</hi> at thy Head. As thou walkest along, a <hi>Tile</hi> may Dispatch thee, or an <hi>Appoplex</hi> Fell thee: thou art always like <hi>Damo<g ref="char:EOLhyphen"/>cles,</hi> a fatal Sword hangs over thy Head, by a twine Thread, which how soon it may Break thou knowest not: Thy En<g ref="char:EOLhyphen"/>emies within thee may Destroy thee, and Thousands from without thee wait thy Ruine. There is but one way in<g ref="char:EOLhyphen"/>to the World, but Millions to dispatch thee Hence, and which is most Dreadful, thou knowest not the manner how, nor time when. If thou liest Down to Sleep, thou may'st Wake in Eternal Burnings. If thou Journeyest abroad, the Home thou intendest may be thy Grave. If thou Feast<g ref="char:EOLhyphen"/>est this Day, to Morrow thou mayest be made a Feast for <hi>Worms.</hi> Thou art now perhaps Revelling in all man<g ref="char:EOLhyphen"/>ner of Delights and Pleasure, the Sparkling <hi>Glass</hi> it at thy Lips, thy Jovial Companions about thee, thy Eyes are Admi<g ref="char:EOLhyphen"/>ring the objects of Beauty, thy Ears entertained with the Har<g ref="char:EOLhyphen"/>monys of Musique, and Odoriferous Perfumes Strengthen thy Senses but thou knowest not how soon Death may strike thee, and turn thy Revellings into Languishings, thy Delights and Pleasures into Sighs and Groans, thy last Sickness nauseate thy Cups; thy Freinds take their Parting Adiews for ever: Beauty become Loathsom, the Toling Bell thy Musick, and Stench and Defilement Choak thee. And tell me Young-Man if thou thinkest it not thy Interest whilst opportunitys are offered thee, to follow the Wise Mans Ad<g ref="char:EOLhyphen"/>vice. For Secondly, if thou escapest all these Casualties, Old Age will certainly be upon thee, its Harbingers are near, Gray Hairs, and the Bearing-Staff, will be quickly thy Portion. And canst thou expect when the <hi>Devil,</hi> the <hi>Flesh,</hi> and the <hi>World</hi> have had thy Youth and Strength of Performances Lavished out in their Service, that God will accept of the Lees and Remainders of Old Age, and the Repentance that proceeds from thy Pains and Anguish, it will then be too Late to give him thy whole Heart and thy whole Soul, which he requires of thee. The Cares of the World, the disposal of what thou hast, will rob him of his Share: besides thy Account will then be the Great<g ref="char:EOLhyphen"/>est, when thou hast the least to Discharge it with: when thou, shouldest Pray and Repent thee of thy Sins, the Dis<g ref="char:EOLhyphen"/>tempers and Aches thou art under will discompose thee, when thou should'st Weep for thy Transgressions, half the Tribute of thy Eyes will be required for thy Anguish; and perhaps thy Senses may Decay with thy Strength, and the time thou allowest for thy Repentance, be wholly swal<g ref="char:EOLhyphen"/>lowed up in Ignorance and Dotage. It behoves thee therefore to remember thy Creator at present, which is the application of the Wise Mans Reasons, and should be so of thine: which if thou dost, this will certainly carry thee through the whole Pilgrimage of thy Life, and bear thee up in all the mis-adventurous paths thereof.</p>
+            <p>For, First if you remember him, he'le never forge thee: no trouble thou shalt encounter with, but he will Van<g ref="char:EOLhyphen"/>quish for thee, or support thee to bear it. No Allurement of the World shall draw the aside from thy Path, but he will present the view of heaven in thy Eye, as the Reward of that Goal to which thou Pressest, and pervert the Temp<g ref="char:EOLhyphen"/>tation.</p>
+            <p>Secondly, remember him as a Good and Gracious God, Consider with thy self what he hath done for thy Beni<g ref="char:EOLhyphen"/>fit, when thou wast a lost and undon Creature, when no Eye pitied thee, when no Heart Relented for thee, when thou wast under the sentence of the Law, and con<g ref="char:EOLhyphen"/>sequently a Condemned Creature: no help, no Sanctuary, no Refuge for thy Escape: it was then his time of mercy towards thee, then he parted with his only Son from his Bosom, for thy Relief, to live a painful Troublesom Life upon Earth, for thy sake and Instruction, and at last to Dye a shameful Death upon the <hi>Cross</hi> for thy Redemption and let this his Goodness allure thee to love him, to Praise and Adore him for the greatness of his Mercies.</p>
+            <p>Thirdly remember as he is a good God, so he is a Just and a Holy God; that tho he hath been, and is Merciful to thee, yet he will not suffer his Mercy to be abused and Slighted; that he is a Holy God, and expects those that <hi>come to him must be Holy as he is Holy,</hi> tho not in the same de<g ref="char:EOLhyphen"/>gree, which is unpossible for any humane Creature to be: yet with endeavours of growing in Grace more and more, and Humble and hearty Desires to be as far Comformable as thou canst possibly under thy Circumstances attain unto, stand not out against the calls of his Mercy, least the strokes of his Justice overtake thee: tho he is slow to Anger, yet is he of mighty Wrath to those that make light of his Com<g ref="char:EOLhyphen"/>mands. And let this induce thee to fear him, knowing thy Breath is at his Disposal, and every Moment he can call thee to an Account for thy misdeeds: and who is it that can stand before his Tribunal?</p>
+            <p>Fourthly, remember him as a God of Power, who is as well able to Assist thee, as to condemn thee; that he hath Thousands and ten Thousands of Ministring Spirits, who are as ready to Execute the Commands of his Mercy, to the Penitent and returning Sinner, as to deliver the messa<g ref="char:EOLhyphen"/>ges of his Vengeance against the Obstinate and Remorsless. And let this induce thee to Praise and Adore him.</p>
+            <p>Fifthly remember him as a God omniscient as well as Omnipotent; that he knows the Privatest of thy Thoughts: the most recluse and retired of thy Imaginations are open before him: nor will he pass by what thou Imaginest, as well as what thou Actest amiss. For as the Psalmist says, <hi>He re<g ref="char:EOLhyphen"/>quires Truth in the Inward Parts, and maketh us to Understand Wisdom Secretly.</hi> And let these make thee careful of thy Private Actions, considering that it is not enough, that the World cannot Challenge thee of the Transgression of any publick Command; tho no man ever heard thee Swear an Oath, or observed thee to Break the <hi>Sabbath.</hi> No Man can Accuse thee of Disobedience to thy Parents, Disloyalty to thy Prince; of Theft; of Adultery; Contentiousness; or other open scandalous Crime: yet if thy Heart hath not been nor is right with thy God, know that he Under<g ref="char:EOLhyphen"/>stands and beholds the same; and will without due Repen<g ref="char:EOLhyphen"/>tance account with thee therefore.</p>
+            <p>Sixthly remember him as a Guide in all thy Ways, for it is his Grace Conducts thee: 'tis his Grace that Preserves thee from the Trapans and Wiles of that great Deciever, who constantly goes about seeking whom he may Devour: and should God let loose his Chain, and give him Power over thee, not all thy Strength or Subtlety could ever op<g ref="char:EOLhyphen"/>pose him. And let this induce thee to Acknowledge him as thy Preserver and Conducter through the Pilgrimage of Life:</p>
+            <p>Seventhly He is to be remembred as thy Redeemer, for from him and in him, is the measure of thy Hope: 'tis his Heaven thou art Travelling unto: 'tis his Son that is thy Redeemer, to whose Bosom thou art Approaching; in his Hand is the Crown of Righteousness, that must impale thy Brows the Robe of Glory that must array thee, and in his Presence are fulness of Joys for evermore. Fall down there<g ref="char:EOLhyphen"/>fore upon thy Knees, and.</p>
+            <p>First confess thy great Unworthiness for the least of his Mercies: say unto him in the words of the Psalmist, <hi>Have Mercy on me O God, after thy great Goodness, according to the multitude of thy Mercies do away mine Offence,,</hi> and with him in the Gospel, <hi>Lord I am not worthy thou shouldest come under my Roof: I have sinned, what shall I do unto thee O thou Preserver of Men.</hi>
+            </p>
+            <p>Secondly, Acknowledge his loving Kindness in all thy Ways, 'tis by him alone that thy Life hath been Preserved to this Day, 'tis by his Grace thou hast any hope of Glory Say to him therefore <hi>I should utterly have Fainted, but that I Believed verily, to see the goodness of the Lord in the Land of the Living. Thou art my Helper and Redeemer, O Lord make no long Tarrying</hi>
+            </p>
+            <p>Thirdly Beg for Patience under all the Crosses thou shalt meet with on this side thy Home, knowing the eternal weight of Glory that is laid up for all those that fear God. Say unto him <hi>O Blessed Lord who Scourgeth every Son thou receiveth, let me not be weary of thy Correction, but give me such a perfect Subjection unto thee the Father of Spirits, that what ever Chastisement thou art pleased to Visit me with, may be for my Profit, that I may be thereby pertaker of thy Holiness.</hi>
+            </p>
+            <p>Fourthly, put thy Trust and Resignation upon thy God, for he alone is able to Support thee in all thy Ways: say <hi>Mine Eyes look unto thee O Lord in thee is my Trust: O cast not out my Soul: O Lord in thee have I Trusted let me never be Confounded.</hi> So that when thou hast run through the troublesome passages of this Life; thou mayest come to say when thou Arrivest to a Death-Bed, tho I am here in a state of Bannishment and absense from my God, <hi>O take me where I shall for ever behold thy Face, and follow the</hi> Lamb <hi>whether-soever he goeth. I have Fought a good Fight, I have finish<g ref="char:EOLhyphen"/>ed my Course, I have kept the Faith, henceforth there is laid up for me a Crown of Righteousness.</hi>
+            </p>
+            <p>
+               <hi>O Blessed</hi> Jesus, <hi>who hath Loved me, and washed me from my Sins in thy own Blood, receive my Soul: into thy Hands I Commend my Spirit, for thou hast Redeemed me O Lord thou God of Truth, Come Lord Jesus, come quickly,</hi> Amen.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom,</hi> at the <hi>Blew-Ball</hi> in <hi>Thames-street</hi> over against <hi>Baynard</hi>'s-<hi>Castle</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
